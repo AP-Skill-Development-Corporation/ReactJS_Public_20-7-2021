@@ -13,4 +13,4 @@
 
 
 
-![Day1](https://transcripts.gotomeeting.com/#/s/964aed2898e1cfb2662ff0745be0fe01c557c23f5555de4c6b3f6ab0bcb635e5)
+[Day1](https://transcripts.gotomeeting.com/#/s/964aed2898e1cfb2662ff0745be0fe01c557c23f5555de4c6b3f6ab0bcb635e5)
